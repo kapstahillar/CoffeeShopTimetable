@@ -67,9 +67,9 @@ This is a test assignment assined to me.
    ```sh
    git clone https://github.com/kapstahillar/CoffeeShopTimetable.git
     ```
-2. Change directory to TalkBot
+2. Change directory to CoffeeShopTimetable
    ```sh
-   cd ./TalkBot
+   cd ./CoffeeShopTimetable
    ```
 3. Run maven command
    ```

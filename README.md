@@ -87,6 +87,8 @@ This is a test assignment assined to me.
 <p>
 On opening a new browser window in localhost creates you a new customer. <br/> Customer cannot be accessed anymore after refreshin browser window. <br/>
 On clicking a timeslot system tries to book you a slot. Slot can be boooked <br/> when there are any empty slots.
+<br/> 
+ User can simulate multiple clients opening up multiple browser tabs and accessing the app again.
 
 ### LEGEND
 ![screenshot1]
@@ -130,4 +132,4 @@ Project Link: [https://github.com/kapstahillar/CoffeeShopTimetable](https://gith
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[screenshot1]: https://imgur.com/a/MzxeJTI
+[screenshot1]: https://i.imgur.com/xkDPANm.png
